@@ -1,5 +1,3 @@
-//import
-
 const { ethers, run, network } = require("hardhat");
 require("dotenv").config();
 
